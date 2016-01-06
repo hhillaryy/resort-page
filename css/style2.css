@@ -1,0 +1,36 @@
+h1 {
+color: blue;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  border-radius: 100%;
+}
+
+h3 {
+  font-style: italic;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 10px;
+}
+
+ul li {
+  line-height: inherit;
+}
+
+body {
+  background-color: #d3d3d3;
+
+}
